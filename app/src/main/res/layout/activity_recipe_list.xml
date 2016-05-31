@@ -20,7 +20,7 @@
             android:layout_height="match_parent">
             <Button
                 android:layout_width="match_parent"
-                android:layout_height="150dp"
+                android:layout_height="80dp"
                 android:id="@+id/sbutton"
                 android:background="@android:color/transparent"/>
 
@@ -87,7 +87,7 @@
             android:layout_height="match_parent">
             <Button
                 android:layout_width="match_parent"
-                android:layout_height="150dp"
+                android:layout_height="80dp"
                 android:id="@+id/fbutton"
                 android:background="@android:color/transparent"/>
 
@@ -153,7 +153,7 @@
             android:layout_height="match_parent">
             <Button
                 android:layout_width="match_parent"
-                android:layout_height="150dp"
+                android:layout_height="80dp"
                 android:id="@+id/tbutton"
                 android:background="@android:color/transparent"/>
 
@@ -219,7 +219,7 @@
             android:layout_height="match_parent">
             <Button
                 android:layout_width="match_parent"
-                android:layout_height="150dp"
+                android:layout_height="80dp"
                 android:id="@+id/fobutton"
                 android:background="@android:color/transparent"/>
 
@@ -285,7 +285,7 @@
             android:layout_height="match_parent">
             <Button
                 android:layout_width="match_parent"
-                android:layout_height="150dp"
+                android:layout_height="80dp"
                 android:id="@+id/fibutton"
                 android:background="@android:color/transparent"/>
 
